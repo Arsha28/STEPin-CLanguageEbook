@@ -20,12 +20,12 @@
 
 ## Detail Requirements
 ### High Level Requirements 
-| ID | Description | Status (Implemented/Future) | 
-| ----- | ----- | ---------|
-| HR01 | User need to provide the Name | Implemented | 
-| HR02 | User need to provide Email and Phone number | Implemented |
+| ID | Description |  
+| ----- | ----- | 
+| HR01 | User need to provide the Name | 
+| HR02 | User need to provide Email and Phone number |
 ### Low level Requirements
-| ID | Description | HLR ID | Status (Implemented/Future) |
-| ------ | --------- | ------ | ----- |
-| LR01 | User need to select the topic from the display shown | HR01 | Implemented |
-| LR02 | The selected topic is displayed on the screen | LR01 | Implemented |
+| ID | Description | HLR ID |
+| ------ | --------- | ------ | 
+| LR01 | User need to select the topic from the display shown | HR01 |
+| LR02 | The selected topic is displayed on the screen | LR01 | 
