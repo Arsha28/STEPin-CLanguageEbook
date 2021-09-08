@@ -613,6 +613,8 @@ void functions(int Topicchoice ){
     case 6:
         memoryManagement();
         break;
+    default :
+        printf("Please enter a valid Number");
 
 
 
