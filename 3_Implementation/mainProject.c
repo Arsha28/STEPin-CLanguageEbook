@@ -10,11 +10,11 @@
  */
 
 #include<stdio.h>
-#include "panalcolor.h"
+
 
 #include"user.h"
 #include"topicfunctions.h"
-#include"topics.h"
+
 
 
 

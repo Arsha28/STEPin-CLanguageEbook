@@ -5,8 +5,7 @@ TEST_PROJ_NAME = Test_$(PROJ_NAME)
 BUILD_DIR = Build
 
 # All source code files
-SRC =src/panalcolor.c\
-src/topicfunctions.c
+SRC =src/topicfunctions.c
 
 # All test source files
 TEST_SRC = test/test_ebook.c\
