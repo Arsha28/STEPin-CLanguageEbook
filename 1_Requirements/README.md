@@ -17,3 +17,15 @@
 *   This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
 ## How
 *   By choosing the correct choice number for the operation to be performed.The user will be getting the result ouptut on the display.
+
+## Detail Requirements
+### High Level Requirements 
+| ID | Description | Status (Implemented/Future) | 
+| ----- | ----- | ---------|
+| HR01 | User need to provide the Name | Implemented | 
+| HR02 | User need to provide Email and Phone number | Implemented |
+### Low level Requirements
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | User need to select the topic from the display shown | HR01 | Implemented |
+| LR02 | The selected topic is displayed on the screen | LR01 | Implemented |
