@@ -11,7 +11,7 @@
 
 #include<stdio.h>
 #include "panalcolor.h"
-#include <windows.h>
+
 #include"user.h"
 #include"topicfunctions.h"
 #include"topics.h"
@@ -44,7 +44,7 @@ int main(){
     printf("--------------------------------------");
     setxy(35,5);
     printf("*******************************************************\n");
-    system("color 60");
+    
     for(int pos=5;pos<12;pos++){
     setxy(35,pos);
     printf("*");
