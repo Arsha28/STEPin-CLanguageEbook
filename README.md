@@ -17,3 +17,9 @@ This is a C Programming E-book application project. This project contains all th
 
 ## Git Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d4df06ebe6704905ab57c23e02670aff)](https://www.codacy.com/gh/Arsha28/STEPin-CLanguageEbook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Arsha28/STEPin-CLanguageEbook&amp;utm_campaign=Badge_Grade)
+
+
+
+|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![C/C++ CI](https://github.com/Arsha28/STEPin-CLanguageEbook/actions/workflows/c-build.yml/badge.svg)|
