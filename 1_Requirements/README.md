@@ -4,4 +4,4 @@
 
 
 
-![SWOT Analysis](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/swot.png)
+![SWOT Analysis](https://github.com/Arsha28/STEPin-CLanguageEbook/blob/main/1_Requirements/swot.png)
