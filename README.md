@@ -16,5 +16,4 @@ This is a C Programming E-book application project. This project contains all th
 ![](https://www.code-inspector.com/project/28285/score/svg)<br />![](https://www.code-inspector.com/project/28285/status/svg)
 
 ## Git Codacy Badge
-
-![Codacy Badge](https://app.codacy.com/project/badge/Grade/41b77a387bf148f19aba02d17c86497a)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d4df06ebe6704905ab57c23e02670aff)](https://www.codacy.com/gh/Arsha28/STEPin-CLanguageEbook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Arsha28/STEPin-CLanguageEbook&amp;utm_campaign=Badge_Grade)
