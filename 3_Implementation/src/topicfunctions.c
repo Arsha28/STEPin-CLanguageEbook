@@ -44,7 +44,7 @@ int Topicindex(){
 }
 
 
-int introductions(){
+void introductions(){
     
     printf("--------------------------------------\n");
    
@@ -115,8 +115,6 @@ int introductions(){
     
     printf("***********************************************************************************************************");
 
-    return 0;
-
 
 }
 
@@ -125,7 +123,7 @@ int introductions(){
 
 
 
-int ConditionsLoops(){
+void ConditionsLoops(){
     
     printf("--------------------------------------\n");
     
@@ -285,12 +283,12 @@ int ConditionsLoops(){
     
     printf("***********************************************************************************************************************");
 
-   return 0;
+   
 
 }
 
 
-int  FunctionsArraypointer(){
+void  FunctionsArraypointer(){
     
     printf("--------------------------------------------------------");
     
@@ -410,11 +408,11 @@ int  FunctionsArraypointer(){
     printf("It's much easier to read a hex number that is 8 characters long for 32 bits of memory than to try to decipher ");
    
     printf("32 1s and 0s in binary.The following program displays the memory addresses for variables i and k\")");
-  return 0;
+  
 
 }
 
-int stringsf(){
+void stringsf(){
     
     printf("--------------------------------------");
    
@@ -482,7 +480,7 @@ int stringsf(){
     
     printf("*********************************************************************************************************************");
 
-   return 0;
+   
 
 
 
