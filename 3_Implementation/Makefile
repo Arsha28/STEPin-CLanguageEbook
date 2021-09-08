@@ -9,7 +9,7 @@ SRC =src/panalcolor.c\
 src/topicfunctions.c
 
 # All test source files
-TEST_SRC = test/test_calculator.c\
+TEST_SRC = test/test_ebook.c\
 unity/unity.c
 
 # All include folders with header files
