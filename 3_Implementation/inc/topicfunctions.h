@@ -1,9 +1,9 @@
 #ifndef TOPICFUNCTIONS_H_INCLUDED
 #define TOPICFUNCTIONS_H_INCLUDED
+#include<stdio.h>
 
-
-void functions(int Topicchoice);
-void Topicindex();
+int functions(int Topicchoice);
+int Topicindex();
 
 
 #endif // TOPICFUNCTIONS_H_INCLUDED

@@ -16,12 +16,11 @@ void tearDown(){}
 
 
 /* Prototypes for all the test functions */
-void test_functions(void){
-    int a =10;
-    TEST_ASSERT_EQUAL_INT(a, functions(10));
-    
-    
 
+
+void test_Topicindex(void){
+        
+  		TEST_ASSERT_EQUAL(0,Topicindex());
 }
 
 
@@ -29,6 +28,6 @@ void test_functions(void){
 int main(void)
 {
 UNITY_BEGIN();
-RUN_TEST(test_functions);
+RUN_TEST(test_Topicindex);
 return UNITY_END();
 }

@@ -5,7 +5,7 @@
 
 
 
-void Topicindex(){
+int Topicindex(){
     
            printf("---------------------");
            
@@ -39,6 +39,7 @@ void Topicindex(){
           
            scanf("%d",&Topicchoice);
            functions(Topicchoice);
+           return 0;
 
 }
 
@@ -574,7 +575,7 @@ void memoryManagement(){
 
 
 
-void functions(int Topicchoice ){
+int functions(int Topicchoice ){
 
 
     switch(Topicchoice)
@@ -603,4 +604,6 @@ void functions(int Topicchoice ){
 
 
     }
+    return 0;
+    
 }

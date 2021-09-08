@@ -45,14 +45,7 @@ int main(){
    
     printf("*******************************************************\n");
     
-    for(int pos=5;pos<12;pos++){
-   
-    printf("*");
-    }
-    for(int pos=5;pos<12;pos++){
-    
-    printf("*");
-    }
+
 
   
    printf("First Name\t:");
@@ -74,8 +67,7 @@ int main(){
    scanf("%s",U.phone);
 
 
-    system("cls");
-
+   
 
     Topicindex();
 
