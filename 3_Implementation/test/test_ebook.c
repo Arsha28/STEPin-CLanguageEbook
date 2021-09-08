@@ -16,8 +16,10 @@ void tearDown(){}
 
 
 /* Prototypes for all the test functions */
-void test_setxy(void){
-    int a=2;
+void test_functions(void){
+    int a =10;
+    TEST_ASSERT_EQUAL_INT(a, functions());
+    
     
 
 }
@@ -27,6 +29,6 @@ void test_setxy(void){
 int main(void)
 {
 UNITY_BEGIN();
-RUN_TEST(test_setxy);
+RUN_TEST(test_functions);
 return UNITY_END();
 }
