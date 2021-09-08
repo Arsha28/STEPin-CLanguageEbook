@@ -18,7 +18,7 @@ void tearDown(){}
 /* Prototypes for all the test functions */
 void test_functions(void){
     int a =10;
-    TEST_ASSERT_EQUAL_INT(a, functions());
+    TEST_ASSERT_EQUAL_INT(a, functions(10));
     
     
 
