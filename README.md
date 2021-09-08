@@ -6,6 +6,12 @@ This is a C Programming E-book application project. This project contains all th
 |Folder             | Description |
 |-------------------| -----------------------------------------|
 | `1_Requirements`   | Documents detailing requirements and research|
-| `2_Design`         | Documents specifying design details|
+| `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_Test_plan`      | Documents with test plans and procedures|
+
+
+# Code Badges and Score
+
+![](https://www.code-inspector.com/project/28285/score/svg)<br />![](https://www.code-inspector.com/project/28285/status/svg)
+
