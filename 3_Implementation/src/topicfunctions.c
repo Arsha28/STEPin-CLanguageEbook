@@ -125,7 +125,7 @@ int introductions(){
 
 
 
-void ConditionsLoops(){
+int ConditionsLoops(){
     
     printf("--------------------------------------\n");
     
@@ -285,12 +285,12 @@ void ConditionsLoops(){
     
     printf("***********************************************************************************************************************");
 
-
+   return 0;
 
 }
 
 
-void  FunctionsArraypointer(){
+int  FunctionsArraypointer(){
     
     printf("--------------------------------------------------------");
     
@@ -410,11 +410,11 @@ void  FunctionsArraypointer(){
     printf("It's much easier to read a hex number that is 8 characters long for 32 bits of memory than to try to decipher ");
    
     printf("32 1s and 0s in binary.The following program displays the memory addresses for variables i and k\")");
-
+  return 0;
 
 }
 
-void stringsf(){
+int stringsf(){
     
     printf("--------------------------------------");
    
@@ -482,7 +482,7 @@ void stringsf(){
     
     printf("*********************************************************************************************************************");
 
-
+   return 0;
 
 
 
